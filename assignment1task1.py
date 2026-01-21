@@ -1,0 +1,7 @@
+a=float(input("Enter the first number to be calculated : "))
+b=float(input("Enter the second number to be calculated : "))
+print("required answer are - ")
+print("Addition",a+b,sep=":")
+print("Substraction",a-b,sep=":")
+print("Multiplication",a*b,sep=":")
+print("Division",a/b,sep=":")
